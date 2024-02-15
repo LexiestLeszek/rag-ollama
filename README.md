@@ -1,2 +1,2 @@
 # rag-ollama
-RAG implementation using Ollama.
+Gardio app with RAG implementation using Ollama.
